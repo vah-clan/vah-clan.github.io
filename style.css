@@ -28,6 +28,7 @@ div.container{
   width: 100%;
 }
 div.title{
+  background-color: #222;
   color: #FFF;
   float: left;
   font-family: serif;
