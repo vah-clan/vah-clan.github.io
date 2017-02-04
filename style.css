@@ -9,6 +9,10 @@ img{
   margin: auto;
   max-width: 100%;
 }
+p.nav{
+  font-size: 200%;
+  text-align: center;
+}
 a.nav:link, a.nav:visited, a.nav:active{
   color: #FFF;
   margin: 16px;
