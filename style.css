@@ -9,6 +9,14 @@ img{
   margin: auto;
   max-width: 100%;
 }
+a.nav:link, a.nav:visited, a.nav:active{
+  color: #FFF;
+  margin: 16px;
+  text-decoration: none;
+}
+a.nav:hover{
+  color: #999;
+}
 div.block{
   background-color: #FFF;
   border: 1px solid black;
