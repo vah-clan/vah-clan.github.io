@@ -57,3 +57,10 @@ iframe{
   width: 100%;
   height: 100%;
 }
+/* CSS3 - Put last encase of failure */
+details summary::-webkit-details-marker{
+  display:none;
+}
+details > summary:first-of-type{
+  list-style-type: none;
+}
