@@ -9,15 +9,15 @@
     <img src="vah.png" width="512" />
     <div class="container">
       <p class="nav">
-        <a class="nav" href="#news">NEWS</a>
-        <a class="nav" href="#players">PLAYERS</a>
-        <a class="nav" href="#about">ABOUT</a>
+        <a class="nav" onclick="document.getElementById('1').open = 'open';" href="#news">NEWS</a>
+        <a class="nav" onclick="document.getElementById('2').open = 'open';" href="#players">PLAYERS</a>
+        <a class="nav" onclick="document.getElementById('3').open = 'open';" href="#about">ABOUT</a>
       </p>
     </div>
     <!-- NEWS -->
     <a name="news"></a>
     <div class="container">
-      <details>
+      <details id="1">
         <summary>
           <div class="title">
             News
@@ -75,7 +75,7 @@
     <!-- PLAYERS -->
     <a name="players"></a>
     <div class="container">
-      <details>
+      <details id="2">
         <summary>
           <div class="title">
             Players
@@ -178,7 +178,7 @@
     <!-- ABOUT -->
     <a name="about"></a>
     <div class="container">
-      <details>
+      <details id="3">
         <summary>
           <div class="title">
             About
