@@ -46,6 +46,7 @@ div.container{
 div.title{
   background-color: #222;
   color: #FFF;
+  cursor: pointer;
   float: left;
   font-family: serif;
   font-size: 256%;
