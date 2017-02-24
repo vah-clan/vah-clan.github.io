@@ -1,0 +1,55 @@
+.clearit:before, .clearit:after { content: ""; display: table; }
+    .clearit:after { clear: both; }
+    .clearit { *zoom: 1; }
+    
+    /* Photoset */
+    
+    .photo-slideshow {
+      visibility: hidden;
+    }
+    .photo-slideshow.processed {
+      visibility: visible;
+    }
+    .photo-slideshow .row {
+      clear: both;
+      width: 100%;
+    }
+    .photo-slideshow .pxu-photo {
+      display: block;
+      float: left;
+      margin-bottom: 0;
+      width: 100%;
+      overflow: hidden;
+    }
+    .photo-slideshow .pxu-photo img {
+      display: block;
+    }
+    photo-slideshow.processed .pxu-photo img {
+      width: 100%;
+      height: auto;
+    }
+    .photo-slideshow .pxu-photo:first-child img {
+      margin-left: 0;
+    }
+    .photo-slideshow .count-1 {
+      width: 100%;
+    }
+    .photo-slideshow .count-2 {
+      width: 50%;
+    }
+    .photo-slideshow .count-3 {
+      width: 33.33%;
+    }
+    .photo-slideshow .count-4 {
+      width: 25%;
+    }
+    .photo-slideshow .count-5 {
+      width: 20%;
+    }
+    .photo-slideshow .info {
+      display: none;
+    }
+    .photo-data {
+      position: relative;
+      float: left;
+    }
