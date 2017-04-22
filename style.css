@@ -10,6 +10,7 @@ img{
   height: auto;
   margin: auto;
   max-width: 100%;
+  text-align: center;
 }
 p.nav{
   font-size: 128%;
