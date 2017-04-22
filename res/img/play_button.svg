@@ -31,11 +31,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="960"
-     inkscape:window-height="1028"
-     inkscape:window-x="960"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4140" />
@@ -57,16 +57,16 @@
      inkscape:groupmode="layer"
      id="layer1">
     <circle
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09929839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09929839;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4138"
        cx="21.718355"
        cy="22.858114"
        r="19.950352"
-       inkscape:export-xdpi="418.909"
-       inkscape:export-ydpi="418.909" />
+       inkscape:export-xdpi="144.35817"
+       inkscape:export-ydpi="144.35817" />
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84899998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.84899998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4146"
        sodipodi:sides="3"
        sodipodi:cx="-21.964285"
@@ -82,7 +82,7 @@
        inkscape:transform-center-x="0.9633811"
        inkscape:transform-center-y="-0.96255053"
        transform="matrix(-0.85050752,0,0,0.9353341,0.3702436,1.3454609)"
-       inkscape:export-xdpi="418.909"
-       inkscape:export-ydpi="418.909" />
+       inkscape:export-xdpi="144.35817"
+       inkscape:export-ydpi="144.35817" />
   </g>
 </svg>
