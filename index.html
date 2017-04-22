@@ -8,12 +8,20 @@
   </head>
   <body>
     <div class="header">
+      <noscript>
+        <style>
+          img.audio{
+            height: 0px;
+            width: 0px;
+          }
+        </style>
+      </noscript>
       <a href="res/mp3/music-play.html" target="frame-music">
-        <img src="res/img/play_button.png" />
+        <img class="audio" src="res/img/play_button.png" />
       </a>
       <img src="vah.png" width="512" />
       <a href="res/mp3/music-none.html" target="frame-music">
-        <img src="res/img/pause_button.png" />
+        <img class="audio" src="res/img/pause_button.png" />
       </a>
     </div>
     <div class="container">
