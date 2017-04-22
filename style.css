@@ -45,6 +45,9 @@ div.container{
   overflow: auto;
   width: 100%;
 }
+div.header{
+  text-align: center;
+}
 div.title{
   background-color: #222;
   color: #FFF;
