@@ -64,10 +64,12 @@ iframe{
   width: 98%;
   height: 98%;
 }
-iframe.hide{
+.hide{
   border: none;
+  display: none;
   height: 0px;
   width: 0px;
+  visibility: hidden;
 }
 /* CSS3 - Put last encase of failure */
 details summary::-webkit-details-marker{
