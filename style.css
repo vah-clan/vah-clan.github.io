@@ -64,6 +64,11 @@ iframe{
   width: 98%;
   height: 98%;
 }
+iframe.hide{
+  border: none;
+  height: 0px;
+  width: 0px;
+}
 /* CSS3 - Put last encase of failure */
 details summary::-webkit-details-marker{
   display:none;
