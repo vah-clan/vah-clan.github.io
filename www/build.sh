@@ -38,7 +38,7 @@ function build {
     done
     # Build markdown files
     for z in $i*.md; do
-      pandoc -s -c $(pwd)/style.css -B $(pwd)/header.html $z -o ${z%.*}.html
+      pandoc -s -c /www/style.css -B $(pwd)/header.html $z -o ${z%.*}.html
     done
   done
 }
