@@ -1,0 +1,25 @@
+body{
+  background-color: #FFF;
+  color: #222;
+  font-family: sans-serif;
+  font-size: 128%;
+  margin: 16px;
+}
+img{
+  background-color: #444;
+  color: #FFF;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 16px;
+  text-align: center;
+}
+blockquote{
+  background-color: #CCC;
+  color: #333;
+  text-align: center;
+}
+a{
+  color: #000;
+}
