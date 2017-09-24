@@ -61,7 +61,7 @@ function rss {
   for z in blg/*.md; do
     title="$(sed '1q;d' $z)"
     description="$(sed '5q;d' $z)"
-    link="https://vah-clan.github.io/www/blg/${z%.*}.html"
+    link="https://vah-clan.github.io/www/${z%.*}.html"
     pubdate="$(date -r $z -R)"
     echo "    <item>"                                    >> vah.rss
     echo "      <title>$title</title>"                   >> vah.rss
