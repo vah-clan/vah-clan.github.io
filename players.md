@@ -29,6 +29,7 @@
 * Danke Man
 * Vahe (founder of clan)
 * SDBS
+* StrawLits
 
 ## Gray List
 
@@ -66,7 +67,6 @@ Players listed here have left the clan for one of many reasons.**
 * Exile
 * Xland
 * htmldude (BlueTu's brother)
-* StrawLits
 
 ## Player Rules
 
