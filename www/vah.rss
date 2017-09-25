@@ -4,9 +4,39 @@
     <title>|VAH| Clan</title>
     <description>Blog updates</description>
     <link>https://vah-clan.github.io</link>
-    <lastBuildDate>Mon, 25 Sep 2017 08:03:05 +1300</lastBuildDate>
-    <pubDate>Mon, 25 Sep 2017 08:03:05 +1300</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2017 13:13:40 +1300</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2017 13:13:40 +1300</pubDate>
     <ttl>1800</ttl>
+    <item>
+      <title># Developer Time</title>
+      <description>You can download the page here.</description>
+      <link>https://vah-clan.github.io/www/blg/developer-time.html</link>
+      <pubDate>Mon, 25 Sep 2017 12:45:47 +1300</pubDate>
+    </item>
+    <item>
+      <title># General News</title>
+      <description>There have been continued site improvements, please tell us if anything has</description>
+      <link>https://vah-clan.github.io/www/blg/general-news-2.html</link>
+      <pubDate>Mon, 25 Sep 2017 12:43:34 +1300</pubDate>
+    </item>
+    <item>
+      <title># General News</title>
+      <description>We have decided to move some of our VAH servers to TM's master server in order</description>
+      <link>https://vah-clan.github.io/www/blg/general-news-3.html</link>
+      <pubDate>Mon, 25 Sep 2017 12:50:57 +1300</pubDate>
+    </item>
+    <item>
+      <title># General News</title>
+      <description>In the "Players" section, we now have a "White List", "Gray List" and "Black</description>
+      <link>https://vah-clan.github.io/www/blg/general-news.html</link>
+      <pubDate>Mon, 25 Sep 2017 12:41:03 +1300</pubDate>
+    </item>
+    <item>
+      <title># New Clan Page</title>
+      <description>Due to some issues regarding servers, we have migrated to this page, kindly</description>
+      <link>https://vah-clan.github.io/www/blg/new-clan-page.html</link>
+      <pubDate>Mon, 25 Sep 2017 12:32:23 +1300</pubDate>
+    </item>
     <item>
       <title># New Site</title>
       <description>We created a new site!</description>
