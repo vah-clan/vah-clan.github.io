@@ -1,80 +1,25 @@
 body{
-  background-color: #444;
-  color: #FFF;
+  background-color: #FFF;
+  color: #222;
   font-family: sans-serif;
   font-size: 128%;
-  margin: 4px;
+  margin: 16px;
 }
 img{
-  display: inline;
+  background-color: #444;
+  color: #FFF;
+  display: block;
   height: auto;
-  margin: auto;
+  margin: 0 auto;
   max-width: 100%;
+  padding: 16px;
   text-align: center;
 }
-p.nav{
-  font-size: 128%;
-  text-align: center;
-}
-a.nav:link, a.nav:visited, a.nav:active{
-  color: #FFF;
-  margin: 16px;
-  text-decoration: none;
-}
-a.nav:hover{
-  color: #999;
-}
-div.block{
-  background-color: #FFF;
-  border: 1px solid black;
-  border-color: #CCC;
-  border-radius: 16px;
+blockquote{
+  background-color: #CCC;
   color: #333;
-  float: left;
-  height: 400px;
-  margin: 8px;
-  overflow: auto;
-  padding: 0px;
-  width: 400px;
-}
-div.container{
-  background-color: #333;
-  border: 0px;
-  border-radius: 16px;
-  margin: 16px 0px 0px 0px;
-  overflow: auto;
-  width: 100%;
-}
-div.header{
   text-align: center;
 }
-div.title{
-  background-color: #222;
-  color: #FFF;
-  cursor: pointer;
-  float: left;
-  font-family: serif;
-  font-size: 256%;
-  margin: auto;
-  text-align: center;
-  width: 100%;
-}
-iframe{
-  border: none;
-  width: 98%;
-  height: 98%;
-}
-.hide{
-  border: none;
-  display: none;
-  height: 0px;
-  width: 0px;
-  visibility: hidden;
-}
-/* CSS3 - Put last encase of failure */
-details summary::-webkit-details-marker{
-  display:none;
-}
-details > summary:first-of-type{
-  list-style-type: none;
+a{
+  color: #000;
 }
