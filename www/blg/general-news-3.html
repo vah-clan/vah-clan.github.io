@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="/www/style.css" type="text/css" />
+</head>
+<body>
+<div class="figure">
+<img src="/www/logo.png" />
+
+</div>
+<blockquote>
+<p><a href="/www/index.html">Home</a> | <a href="/www/blogs.html">Blogs</a> | <a href="https://riot.im/app/#/room/#lut:matrix.org">Chat</a> | <a href="/www/players.html">Players</a> | <a href="/www/gallery.html">Gallery</a> | <a href="/www/about.html">About</a> | <a href="/www/contact.html">Contact</a></p>
+</blockquote>
+<h1 id="general-news">General News</h1>
+<p><em>By |VAH|-B[]</em></p>
+<p>We have decided to move some of our VAH servers to TM's master server in order to encourage diversity within the game in light of some recent conversations. Servers 3 and 4 have been moved, with servers 1 and 2 remaining on the master server.</p>
+<p>You can read more <a href="https://forum.cubers.net/thread-8875-post-172952.html#pid172952">here</a> regarding the reasons behind the move, as well as opinions of others in the AC community.</p>
+<p>To change your script to start on TM's server, please change your script from:</p>
+<pre><code>CUBE_OPTIONS=&quot;--home=${HOME}/.assaultcube_v1.2 --init -m164.132.110.143&quot;</code></pre>
+<p>To:</p>
+<pre><code>CUBE_OPTIONS=&quot;--home=${HOME}/.assaultcube_v1.2 --init -m164.132.110.143 \
+  --masterport=28760 --mastertype=0&quot;</code></pre>
+<p>It is easier if you have two scripts. This of course will look slightly different depending on which OS you run, the above is for Linux. You will have to find the equivalent for your OS, or use the <a href="https://bitbucket.org/iguanameow/assaultcube_launcher">EggCube Launcher</a>.</p>
+</body>
+</html>
