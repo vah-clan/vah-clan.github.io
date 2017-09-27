@@ -3,10 +3,10 @@
 ## IRC
 
 You can instant message us on
-[IRC](https://kiwiirc.com/client/irc.freenode.net/?nick=name|?&theme=basic#vah)
-via the KiwiIRC app.
+[Matrix](https://riot.im/app/#/room/#vah:matrix.org) via the Riot web app.
 
-We are on irc.freenode.net in the #vah room.
+We are also on IRC, via the irc.freenode.net in the #vah room. You can access
+this now through the "Chat" navigation.
 
 ## Email
 
