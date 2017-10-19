@@ -13,6 +13,6 @@ this now through the "Chat" navigation.
 To contact, please message:
 
 * barray`[AT]`protonmail`[DOT]`com
-<a href = "mailto:mihi.lavricgmail.com">Contact BlueTu/a>
+<a href = "mailto:mihi.lavric@gmail.com">Contact BlueTu/a>
 
 A response may take a few days.
