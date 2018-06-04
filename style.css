@@ -12,3 +12,12 @@
 .pad{
   padding: 1.2em;
 }
+img{
+  max-height: 100%;
+  max-width: 100%;
+}
+iframe{
+  border: 0px;
+  height: 100vh;
+  width: 100%;
+}
